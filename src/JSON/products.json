@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Sandalias 104",
+      "price": 150,
+      "imageUrl": "/104.jpg",
+      "category": "Sandalias"
+    },
+    {
+      "id": 2,
+      "name": "Sandalias 106",
+      "price": 175,
+      "imageUrl": "/106.jpg",
+      "category": "Sandalias"
+    },
+    {
+        "id": 3,
+        "name": "Botas Acuario",
+        "price": 80,
+        "imageUrl": "/acuario.jpg",
+        "category": "Botas"
+      },
+      {
+        "id": 4,
+        "name": "Botas Fenix",
+        "price": 80,
+        "imageUrl": "/fenix.jpg",
+        "category": "Botas"
+      },
+      {
+        "id": 5,
+        "name": "Borcegos Andromeda",
+        "price": 110,
+        "imageUrl": "/andromeda.jpg",
+        "category": "Borcegos"
+      },
+      {
+        "id": 6,
+        "name": "Borcegos Venus",
+        "price": 120,
+        "imageUrl": "/venus.jpg",
+        "category": "Borcegos"
+      }
+  ]
